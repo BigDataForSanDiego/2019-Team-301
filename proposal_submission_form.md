@@ -1,26 +1,26 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 301
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: The League  
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### An app that tracks community service hours of an individual and lists near by places where you can volunteer in a central database. 
+##### It will describe the impact of the associations to raise awareness of problems in San Diego and also provides students with an easy way to track hours and submit them to colleges. 
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+- ##### California school dashboard https://www.caschooldashboard.org/more-information
+- ##### 
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: cindyfeldman
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 |     Name           |         []          |             [ ]             |         [ ]          |                   []                     |Cindy Feldman
+| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ +]                     |Joyce Garofalo
+| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [X]                     |Alfred Quan
+| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [+ ]                     |Keith Groves
 | 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
