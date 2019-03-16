@@ -11,3 +11,5 @@
 > - Make sure to check all boxes that apply for each team member's status in the project submission form.
 > - You can select a presentation slide file format (e.g., ppt(x), pdf, google slides, etc.). If you select a format that Windows OS does not support, convert your slide format that can be run on Windows OS (e.g., ppt(x), pdf, browser-based presentations).
 > - The team presentation schedule will be announced at 10:10 am
+
+https://docs.google.com/presentation/d/1apKqpS5FvXGMzhCwZnuehzIrPfm3FOSAWXQmE9SWImA/edit?usp=sharing
