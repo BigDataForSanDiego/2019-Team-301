@@ -13,3 +13,7 @@
 > - The team presentation schedule will be announced at 10:10 am
 
 https://docs.google.com/presentation/d/1apKqpS5FvXGMzhCwZnuehzIrPfm3FOSAWXQmE9SWImA/edit?usp=sharing
+slides
+
+http://ec2-34-221-253-238.us-west-2.compute.amazonaws.com:8080/login
+aws
